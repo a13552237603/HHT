@@ -1,0 +1,6 @@
+framework module Pods_HHTCode_Tests {
+  umbrella header "Pods-HHTCode_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

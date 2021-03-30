@@ -1,0 +1,6 @@
+framework module Pods_HHTCode_Example {
+  umbrella header "Pods-HHTCode_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

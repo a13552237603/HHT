@@ -1,0 +1,6 @@
+framework module HHTCode {
+  umbrella header "HHTCode-umbrella.h"
+
+  export *
+  module * { export * }
+}

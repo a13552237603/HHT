@@ -1,0 +1,16 @@
+PODS:
+  - HHTCode (0.1.0)
+
+DEPENDENCIES:
+  - HHTCode (from `../`)
+
+EXTERNAL SOURCES:
+  HHTCode:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  HHTCode: 699ffb167e2e7391ffe239a640643a87cefc2b50
+
+PODFILE CHECKSUM: cb02abd184bb4b77664c7e5723fe07ab68d4848d
+
+COCOAPODS: 1.10.0
